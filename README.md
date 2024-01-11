@@ -13,3 +13,6 @@ The second part of CrypDough is named Smart CrypDough. It is a trading bot that 
 - Packages used include TA-Lib (Technical Analysis of stocks) and websocket/json, as well as a Binance wrapper package.
 
 Through the use of this code, with a starting amount of $100 AUD and start time of 01/01/2024, Smart CrypDough traded INJUSDT with a profit of $30, including commission fees.
+
+Note:
+All of the Python functionality was done on a legacy version (Python 3.7) due to the outdated Binance package. All package installs can be found in patri/pyenv.
